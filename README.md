@@ -38,6 +38,3 @@ julia -e "using Pluto; Pluto.run()"
 ```
 
 Open 'filename.jl', wait for the (*long ...*) loading.
-
-
-Translated with www.DeepL.com/Translator (free version)
